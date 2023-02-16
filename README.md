@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lechemmy
 - 👀 I’m interested in most tech.
-- 🌱 I’m currently learning as django, laravel and how to adult.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me ... You don't.
 
